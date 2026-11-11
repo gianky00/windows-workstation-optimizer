@@ -27,7 +27,7 @@ Il toolkit opera in **4 modalità distinte** gestite da `Invoke-ExamPrep.ps1` e 
 ## Struttura del Progetto
 
 ```text
-prepara-pc-esami-universita/
+windows-workstation-optimizer/
 ├── ExamPrep/
 │   ├── ExamPrep.psd1               # Manifesto del modulo PowerShell
 │   └── ExamPrep.psm1               # Core logic (Backup, Ottimizzazione, Ripristino, Report)
